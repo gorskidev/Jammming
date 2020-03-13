@@ -17,7 +17,7 @@ class App extends React.Component {
           artist: 'y',
           album: 'z',
           id: 0
-        }, 
+        },  
         {
           name: 'x1',
           artist: 'y1',
